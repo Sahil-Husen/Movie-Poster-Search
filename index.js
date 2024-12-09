@@ -4,7 +4,7 @@ let searchResult = document.getElementById("searchResult");
 let button = document.querySelector(".btn");
 console.log(button);
 
-
+let api_key = "e48a43b1";
 
 async function run() {
   if (searchBox.value === "") {
