@@ -5,7 +5,7 @@ let button = document.querySelector(".btn");
 console.log(button);
 
 
-let api_key = "e48a43b1";
+
 async function run() {
   if (searchBox.value === "") {
     alert("Please Provide some input value");
